@@ -18,4 +18,4 @@ To program:
 - Update demo_pov.py with text you want to display
 - run python3 demo_pov.py
 - copy output code at the beginning of the arduino sketch
-- tested only with buffers < 256 bytes
+  
