@@ -7,7 +7,7 @@ Tested with: Arduino 1.6.5 and Python 2.7.5/3.4.3
 
 *************************
 # 2025 udpate
-In fodler 2025 you find an updated version with new character map adapted to a more recent version of these PoV Fans. 
+In fodler 2025_update you find an updated version with new character map adapted to a more recent version of these PoV Fans. 
 
 Python script updated to Python3 and sketch to Arduino 2.3.6
 
